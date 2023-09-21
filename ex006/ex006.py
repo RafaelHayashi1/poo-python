@@ -1,4 +1,7 @@
-r = 'S'
-while sexo =='S':
-    sexo = str(input("Digite seu sexo: ")).upper()
-print("Fim")
+sexo = "dkawkdaw"
+
+while sexo != "M" and sexo != "F":
+    sexo = input("Digite seu sexo: ")
+
+print("Sexo: "+sexo)
+
